@@ -1,0 +1,12 @@
+client
+client.c
+client.c~
+dir.c
+ip.sh
+list.sh
+ls.txt
+permission.sh
+permission.sh~
+server
+server.c
+server.c~
